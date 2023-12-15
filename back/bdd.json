@@ -1,0 +1,14 @@
+[
+    {
+        "code": "f230fh0g3",
+        "name": " new patch Product",
+        "description": " new patch Description",
+        "image": " new patch Product.jpg",
+        "price": 65,
+        "category": "Accessories",
+        "quantity": 24,
+        "inventoryStatus": "INSTOCK",
+        "rating": 5,
+        "id": 2
+    }
+]
