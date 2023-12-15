@@ -2,7 +2,7 @@
 
 Pour faire le back j'ai utilisé Python/Flask
 
-Pour lancer le back il faut se placer dans le répertoire **back** et faire **python app.py**.
+Pour lancer le back il faut se placer dans le répertoire _back_ et faire _python app.py_.
 
 J'ai utilisé un fichier json pour gerer la base de données.
 
